@@ -1,2 +1,2 @@
 x = input("How are you feeling")
-print("You typed:",)
+print("You typed:", x)
